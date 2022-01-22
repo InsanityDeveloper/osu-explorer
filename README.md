@@ -5,7 +5,7 @@ Easy importing of osu! files.
 # Installation
 Make sure you have Java installed.
 
-Download "osu-explorer.jar" from the latest release.
+Download "osu-explorer.jar" and "osu-explorer.reg" from the latest release.
 
 Under your user profile, create a folder called OsuExplorer.
 Put the file "osu-explorer.jar" in there.
