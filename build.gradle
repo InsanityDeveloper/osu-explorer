@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'me.insanitydev'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'commons-cli:commons-cli:1.5.0'
+}
