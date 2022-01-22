@@ -16,4 +16,4 @@ And you're done!
 
 # Usage
 
-In any folder, right click(make sure you have no file selected when right clicking) and then use the Dropdown menu from OsuExplorer.
+In any folder, right click (make sure you have no file selected when right clicking) and then use the Dropdown menu from OsuExplorer.
