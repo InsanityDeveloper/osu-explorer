@@ -3,7 +3,7 @@ Easy importing of osu! files.
 
 
 # Installation
-Make sure you have Java installed.
+Make sure you have Java 17 installed.
 
 Download "osu-explorer.jar" and "osu-explorer.reg" from the latest release.
 
